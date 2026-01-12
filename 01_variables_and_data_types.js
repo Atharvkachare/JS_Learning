@@ -20,3 +20,30 @@ console.log(Boolean);
 
 console.log("***Task 3 Ended Here!***");
 
+
+// ******************************************** //
+// Activity 3: Data Types
+// Task 4: Declare variables of different data types (number, string, boolean, object, array) and log their types to the console.
+// Number type
+let value = 1
+console.log(value)
+
+// String type
+let myName = "Atharv"
+console.log(myName)
+
+// Boolean type
+let isTrue = true;
+console.log(isTrue)
+
+// Object type
+let person = {
+    name: "Atharv",
+    age: 18,
+    city: "Mumbai"
+}
+console.log(person)
+
+// Array type
+let fruits = ["Apple", "Banana", "Orange"]
+console.log(fruits)
