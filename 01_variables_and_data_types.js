@@ -47,3 +47,14 @@ console.log(person)
 // Array type
 let fruits = ["Apple", "Banana", "Orange"]
 console.log(fruits)
+
+let x = 10
+x = "Hello"
+console.log(x)
+
+
+// We can also declare two variables and copy data from one into the other.
+let hello = "Hello World"
+let messahe = hello
+console.log(hello) // "Hello World"
+
